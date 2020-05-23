@@ -21,7 +21,5 @@ npm run dev
 ```
 ```
 cd django_react
-```
-```
 python manage.py runserver
 ```
